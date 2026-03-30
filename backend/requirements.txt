@@ -1,0 +1,14 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-dotenv>=1.0.1
+cryptography>=42.0.0
+httpx>=0.27.0
+dnspython>=2.6.1
+reportlab>=4.2.0
+google-generativeai>=0.7.2
+# supabase>=2.5.0  # Requires Rust — install separately if needed
+pydantic>=2.7.1
+pydantic-settings>=2.3.0
+python-multipart>=0.0.9
+websockets>=12.0
+aiofiles>=23.2.1

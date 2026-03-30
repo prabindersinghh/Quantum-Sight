@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+*.env.local
+*.env.production
+
+# Node
+node_modules/
+dist/
+.next/
+out/
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# ReportLab / generated files
+*.pdf
+reports/output/
+
+# Supabase
+.supabase/
